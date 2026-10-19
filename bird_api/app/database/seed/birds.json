@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e91c2f2d-923e-4122-b43f-a61b867d89c1",
+    "binomial_name": "Cardinalis cardinalis",
+    "common_name": "Northern cardinal",
+    "conservation_status": "Least Concern",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Cardinalidae",
+    "genus": "Cardinalis",
+    "species": "cardinalis",
+    "image": "images/northern-cardinal.jpg",
+    "image_alt_text": "Male northern cardinal with bright red plumage perched on a bare branch",
+    "image_credit": "Rhododendrites",
+    "image_license": "CC BY-SA 4.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:Male_northern_cardinal_in_Central_Park_(52612).jpg"
+  }
+]
